@@ -26,6 +26,12 @@ Name | Default Value
 DATABASE_TYPE | local
 DATABASE_USERNAME | wordpress
 DATABASE_PASSWORD | some-string
+DOCKER_CUSTOM_IMAGE_NAME
+TABLE_NAME_PREFIX
+PHPMYADMIN_PASSWORD
+DATABASE_HOST
+DATABASE_NAME
+
 **Note: We create a database "azurelocaldb" when using local mysql . Hence use this name when setting up the app **
 
 4. Browse your site 
